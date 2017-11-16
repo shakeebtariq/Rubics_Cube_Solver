@@ -1,0 +1,9 @@
+-> To Run this windows application all you need is WindowsFormApplication10.exe,
+   ConsoleApplication1.exe, array.txt and output.txt
+
+->If Application Does not Solves the cube Shut it dow and restart App
+
+->Their are few cube which this algorithm is not able to solve 
+
+
+Made By: shakeeb tariq
